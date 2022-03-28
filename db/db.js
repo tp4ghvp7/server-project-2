@@ -1,11 +1,9 @@
 // ORM MongoDB Connectivity
 const mongoose = require('mongoose');
 
-
 //Set up default mongoose connection
 console.debug(process.env.MONGODB_URI)
-mongoose.connect(process.env.MONGODB_URI, {useNewUrlParser: true, useUnifiedTopology: true})
-
+mongoose.connect(process.env.MONGODB_URI,{useNewUrlParser: true, useUnifiedTopology: true})
 //Get the default connection
 var db = mongoose.connection;
 
