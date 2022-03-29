@@ -2,6 +2,7 @@
   "name": "sol",
   "version": "0.0.0",
   "private": true,
+  "homepage": "/admin",
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
