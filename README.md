@@ -2,7 +2,7 @@
 ## Introduction
  This is a project for web development corse 
 ## group member
-Zijian Zhou 6128492
+Zijian Zhou 6128492  Jicheng Xu 6117561
 ## front-side 
 This front repository for front side is：https://github.com/Garrukzijian/front-project-2-
 And the 
